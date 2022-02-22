@@ -1,6 +1,6 @@
 # Cpp Code Snippets
 
-Useful C++ code snippets
+Implementations of core Data Structures and Algorithms topics and useful C++ code snippets
 
 * [Static Assertion](https://github.com/aksoyyusuf/CppCodeSnippets/tree/main/src/static-assertion)
 * [Float Comparison](https://github.com/aksoyyusuf/CppCodeSnippets/tree/main/src/float-comparison)
