@@ -1,4 +1,4 @@
-# Cpp Code Snippets
+# Core Data Structures and Algorithms
 
 Implementations of core Data Structures and Algorithms topics and useful C++ code snippets
 
